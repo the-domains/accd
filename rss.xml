@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[ACCD]]></title>
         <description><![CDATA[ACCD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 14 Aug 2015 00:44:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 14 Aug 2015 00:54:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://accd.org/wp-content/uploads/2012/01/accd.org-angel-logo-300x182.png">]]></description>
+            <link>https://thegrid.ai/accd/03702ba7-548d-4938-83e7-efe507bf9a2a/index.html</link>
+            <guid isPermaLink="false">03702ba7-548d-4938-83e7-efe507bf9a2a</guid>
+            <pubDate>Fri, 14 Aug 2015 00:54:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Association For Christian Character Development]]></title>
             <description><![CDATA[<article><h1>Association For Christian Character Development</h1><img src="http://accd.org/wp-content/themes/SimplePress/images/slider-overlay.png"></article>]]></description>
-            <link>undefined9299f833-32c9-4101-9a52-90546e8cdefb/index.html</link>
+            <link>https://thegrid.ai/accd/9299f833-32c9-4101-9a52-90546e8cdefb/index.html</link>
             <guid isPermaLink="false">9299f833-32c9-4101-9a52-90546e8cdefb</guid>
             <pubDate>Fri, 14 Aug 2015 00:44:04 GMT</pubDate>
         </item>
