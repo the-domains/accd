@@ -1,6 +1,6 @@
 name: ACCD
 favicon: null
-layout_spectrum: 0.00662
+layout_spectrum: 0.43762
 typography_spectrum: 1
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#e0c192'
   brandStrength: 0.5
   lightness: 0.4375
-  saturation: 0.25
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose:
   - name: awareness
