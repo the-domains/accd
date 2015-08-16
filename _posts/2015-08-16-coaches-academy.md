@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://accd.org/?page_id=266'
 title: COACHES ACADEMY
 datePublished: '2015-08-16T09:26:04.379Z'
-dateModified: '2015-08-16T09:26:04.379Z'
+dateModified: '2015-08-16T16:33:48.826Z'
 sourcePath: _posts/2015-08-16-coaches-academy.md
 published: true
 _context: 'http://schema.org'
