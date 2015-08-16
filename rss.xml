@@ -5,8 +5,15 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 14 Aug 2015 19:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2015 09:10:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BREAKTHROUGH]]></title>
+            <description><![CDATA[<article><h1>BREAKTHROUGH</h1><p>The Breakthrough Training gives participants the opportunity to discover and realign the belief systems that govern their lives such that they experience a transformation in their ability to love others, as they want to be loved.</p><img src="http://accd.org/wp-content/uploads/2012/01/breakthrough.jpg"></article>]]></description>
+            <link>http://accd.org/?page_id=204</link>
+            <guid isPermaLink="false">31f30138-7847-490c-936d-a8028fe5c2af</guid>
+            <pubDate>Sun, 16 Aug 2015 09:10:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4747a7b2-4916-4e92-a180-3353fee04fda.png">]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>INFORMATION WORKSHOP</h1><p>You may have been invited by a friend or colleague to attend an Information Workshop. ACCD often will host a free, in-person Introduction to The Discovery Seminar or Breakthrough Training is your opportunity to get your questions answered.</p><img src="http://accd.org/wp-content/uploads/2012/01/572035-300x200.jpg"></article>]]></description>
             <link>http://accd.org/?page_id=247</link>
             <guid isPermaLink="false">9584fe1c-1345-46f7-addf-649e86a5b3fc</guid>
-            <pubDate>Fri, 14 Aug 2015 01:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EFFICACIUS INSTITUTE]]></title>
-            <description><![CDATA[<article><h1>EFFICACIUS INSTITUTE</h1><p>The EFFICACIUS Institute for Transformational Trainers (EITT) is a division of The Association for Christian Character Development a 501 (C3) and was founded to answer a specific need. Somewhere in the journey of life most of us discover a deep desire to live from our hearts what we dream in our heads.</p><img src="http://accd.org/wp-content/uploads/2012/01/Screen-Shot-2012-01-31-at-2.35.06-AM-300x268.png"></article>]]></description>
-            <link>http://accd.org/?page_id=253</link>
-            <guid isPermaLink="false">cac785c0-b1ed-4d2c-8c20-0d19490adfa3</guid>
             <pubDate>Fri, 14 Aug 2015 01:03:35 GMT</pubDate>
         </item>
     </channel>
