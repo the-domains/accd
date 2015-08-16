@@ -5,7 +5,7 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Aug 2015 09:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2015 16:34:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BREAKTHROUGH]]></title>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/accd/cb60f40f-60e3-4bc4-9d1c-155ff8836bd7/index.html</link>
             <guid isPermaLink="false">cb60f40f-60e3-4bc4-9d1c-155ff8836bd7</guid>
             <pubDate>Fri, 14 Aug 2015 19:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ONE Seminar]]></title>
+            <description><![CDATA[<article><h1>The ONE Seminar</h1><p>TIMES: Seminar begins promptly at 9:00 a.m., however please arrive early for registration (which opens at 8:30 a.m.). Seminar ends at approximately 6:00 p.m. A 15 minute confirmation call will happen with each participant before the training begins.</p><img src="http://accd.org/wp-content/uploads/2012/01/One-Logo-3-people2-e1328138245827.jpg"></article>]]></description>
+            <link>http://accd.org/?page_id=165</link>
+            <guid isPermaLink="false">fa13b760-3bf9-4a65-8787-76d47c67e48e</guid>
+            <pubDate>Sun, 16 Aug 2015 16:33:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COACHES ACADEMY]]></title>
@@ -69,13 +76,6 @@
             <link>http://accd.org/?p=276</link>
             <guid isPermaLink="false">8b46c4ba-54b3-450c-b7e2-1f266b792540</guid>
             <pubDate>Fri, 14 Aug 2015 19:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dabae007-2edd-46fe-940c-7a7594c7c891.jpg">]]></description>
-            <link>https://thegrid.ai/accd/198a3205-f0fb-4f38-b436-e453fb610949/index.html</link>
-            <guid isPermaLink="false">198a3205-f0fb-4f38-b436-e453fb610949</guid>
-            <pubDate>Fri, 14 Aug 2015 19:04:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
