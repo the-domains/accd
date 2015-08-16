@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://accd.org/?page_id=247'
 title: INFORMATION WORKSHOP
 datePublished: '2015-08-16T21:31:04.665Z'
-dateModified: '2015-08-16T21:31:04.665Z'
+dateModified: '2015-08-16T21:37:43.383Z'
 sourcePath: _posts/2015-08-16-information-workshop.md
 published: true
 _context: 'http://schema.org'
