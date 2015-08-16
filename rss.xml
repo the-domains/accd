@@ -5,8 +5,15 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Aug 2015 16:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2015 16:35:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b3a21fb-f63a-4f7e-a566-3545d7c3237c.jpg">]]></description>
+            <link>https://thegrid.ai/accd/f0e277b7-cce9-4f7d-9ab5-3d3bec4ed853/index.html</link>
+            <guid isPermaLink="false">f0e277b7-cce9-4f7d-9ab5-3d3bec4ed853</guid>
+            <pubDate>Sun, 16 Aug 2015 16:35:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BREAKTHROUGH]]></title>
             <description><![CDATA[<article><h1>BREAKTHROUGH</h1><p>The Breakthrough Training gives participants the opportunity to discover and realign the belief systems that govern their lives such that they experience a transformation in their ability to love others, as they want to be loved.</p><img src="http://accd.org/wp-content/uploads/2012/01/breakthrough.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://accd.org/?p=439</link>
             <guid isPermaLink="false">9b472686-c260-4ca6-bffe-06456b41b9a0</guid>
             <pubDate>Fri, 14 Aug 2015 19:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[J.R. Young]]></title>
-            <description><![CDATA[<article><h1>J.R. Young</h1><p>Posted by Team on Feb 1, 2012 in People | Comments Off When I was Senior Pastor at Santa Rosa Christian Church, I attended a Breakthrough training to "check it out," because a number of people from our church had attended.</p><img src="http://accd.org/wp-content/uploads/2012/02/Screen-Shot-2012-01-31-at-7.28.53-PM.png"></article>]]></description>
-            <link>http://accd.org/?p=427</link>
-            <guid isPermaLink="false">27637c78-5a2c-48d9-b46f-dfeac3e20b55</guid>
-            <pubDate>Fri, 14 Aug 2015 19:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
