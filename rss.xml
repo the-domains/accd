@@ -5,7 +5,7 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Aug 2015 05:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2015 18:10:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daniel L. Tocchini]]></title>
@@ -34,6 +34,13 @@
             <link>https://thegrid.ai/accd/cb60f40f-60e3-4bc4-9d1c-155ff8836bd7/index.html</link>
             <guid isPermaLink="false">cb60f40f-60e3-4bc4-9d1c-155ff8836bd7</guid>
             <pubDate>Fri, 14 Aug 2015 19:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ACCD Breakthrough Training (will dent ur universe)]]></title>
+            <description><![CDATA[<article><h1>ACCD Breakthrough Training (will dent ur universe)</h1><p>Made by yours truly and Gordonian for ACCD to go along with their shiny new website.</p><img src="http://i.vimeocdn.com/video/89526667_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/14990888</link>
+            <guid isPermaLink="false">692a08aa-9fab-433b-a4e0-1630898935ec</guid>
+            <pubDate>Mon, 17 Aug 2015 18:09:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DISCOVERY]]></title>
@@ -69,13 +76,6 @@
             <link>http://accd.org/?page_id=165</link>
             <guid isPermaLink="false">fa13b760-3bf9-4a65-8787-76d47c67e48e</guid>
             <pubDate>Sun, 16 Aug 2015 16:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COACHES ACADEMY]]></title>
-            <description><![CDATA[<article><h1>COACHES ACADEMY</h1><p>Coaching is a conversation or narrative that can transform individuals and organizations. We are always talking to our selves. We are either talking ourselves into or out of taking some action to accomplish a desired state or result. The question is, as the possible future emerges what voices will determine the horizon you or your organizations will inherit?</p><img src="http://accd.org/wp-content/uploads/2012/01/tca.jpg"></article>]]></description>
-            <link>http://accd.org/?page_id=266</link>
-            <guid isPermaLink="false">e8fd741a-2e29-4373-a566-4f76e9f6222c</guid>
-            <pubDate>Sun, 16 Aug 2015 09:26:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
