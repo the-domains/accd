@@ -5,8 +5,15 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Aug 2015 21:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2015 05:51:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Daniel L. Tocchini]]></title>
+            <description><![CDATA[<article><h1>Daniel L. Tocchini</h1><p>CO-FOUNDER -EXECUTIVE DIRECTOR -MASTER TRAINER</p><img src="http://accd.org/wp-content/uploads/2012/01/d3-Top-Bar-oct-e1328007263460.jpg"></article>]]></description>
+            <link>http://accd.org/?p=282</link>
+            <guid isPermaLink="false">04540695-ecc2-47f7-85aa-9b1021aff5a5</guid>
+            <pubDate>Fri, 14 Aug 2015 01:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b3a21fb-f63a-4f7e-a566-3545d7c3237c.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://accd.org/?page_id=266</link>
             <guid isPermaLink="false">e8fd741a-2e29-4373-a566-4f76e9f6222c</guid>
             <pubDate>Sun, 16 Aug 2015 09:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MISSION & VALUES]]></title>
-            <description><![CDATA[<article><h1>MISSION & VALUES</h1><p>ACCD designs and delivers transformational interactions, dramatically affecting the quality and character of life for individuals, organizations, and communities. OUR VALUES</p><img src="http://accd.org/wp-content/uploads/2012/01/iStock_000006117735Large1-e1328137392791.jpg"></article>]]></description>
-            <link>http://accd.org/?page_id=103</link>
-            <guid isPermaLink="false">22416b32-ed48-46f2-8fe8-8d4c4f136494</guid>
-            <pubDate>Sun, 16 Aug 2015 09:23:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
