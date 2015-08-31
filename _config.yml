@@ -1,6 +1,6 @@
 name: ACCD
 favicon: null
-layout_spectrum: 0.54671
+layout_spectrum: 0.77825
 typography_spectrum: 0.76305
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#594838'
     - '#a76940'
     - '#e0c192'
-  brandStrength: 0.375
+  brandStrength: 0.4375
   lightness: 0.375
   saturation: 0.6875
   rhythmicContrast: 0.75
