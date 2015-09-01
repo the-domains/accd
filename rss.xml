@@ -5,7 +5,7 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Aug 2015 18:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 20:34:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daniel L. Tocchini]]></title>
@@ -34,6 +34,13 @@
             <link>https://thegrid.ai/accd/cb60f40f-60e3-4bc4-9d1c-155ff8836bd7/index.html</link>
             <guid isPermaLink="false">cb60f40f-60e3-4bc4-9d1c-155ff8836bd7</guid>
             <pubDate>Fri, 14 Aug 2015 19:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fred Noa]]></title>
+            <description><![CDATA[<article><h1>Fred Noa</h1><p>BOARD MEMBER -COACH -TRAINING COORDINATOR</p><img src="http://accd.org/wp-content/uploads/2012/02/Screen-Shot-2012-01-31-at-7.32.40-PM.png"></article>]]></description>
+            <link>http://accd.org/?p=439</link>
+            <guid isPermaLink="false">1a180dbc-fe36-4a59-9f16-a8f99fa832cc</guid>
+            <pubDate>Tue, 01 Sep 2015 20:34:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RE-ENTRY MINISTRY]]></title>
@@ -69,13 +76,6 @@
             <link>http://accd.org/?p=363</link>
             <guid isPermaLink="false">f0a197ac-fb93-4260-88ba-2a47281c3248</guid>
             <pubDate>Sun, 16 Aug 2015 21:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[INFORMATION WORKSHOP]]></title>
-            <description><![CDATA[<article><h1>INFORMATION WORKSHOP</h1><p>You may have been invited by a friend or colleague to attend an Information Workshop. ACCD often will host a free, in-person Introduction to The Discovery Seminar or Breakthrough Training is your opportunity to get your questions answered.</p><img src="http://accd.org/wp-content/uploads/2012/01/572035-300x200.jpg"></article>]]></description>
-            <link>http://accd.org/?page_id=247</link>
-            <guid isPermaLink="false">10d32f19-24a3-4c7e-8b74-d2ced28359f2</guid>
-            <pubDate>Sun, 16 Aug 2015 21:31:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
