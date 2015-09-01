@@ -33,9 +33,9 @@ purpose:
     url: null
     item: 31f30138-7847-490c-936d-a8028fe5c2af
 color:
-  saturation: 0.4928315
+  saturation: 0.7939067
   brandStrength: 1
-  lightness: 0.5896057
+  lightness: 0.8034648
   brandColors:
     - '#100c09'
     - '#2b221b'
@@ -43,8 +43,8 @@ color:
     - '#a76940'
     - '#e0c192'
   rhythmicContrast: 0.9743131
-typography_spectrum: 0.99858
-layout_spectrum: 0.8034648
+typography_spectrum: 0.5991637
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
