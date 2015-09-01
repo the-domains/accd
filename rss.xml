@@ -5,7 +5,7 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Sep 2015 20:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2015 20:34:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daniel L. Tocchini]]></title>
@@ -34,6 +34,13 @@
             <link>https://thegrid.ai/accd/cb60f40f-60e3-4bc4-9d1c-155ff8836bd7/index.html</link>
             <guid isPermaLink="false">cb60f40f-60e3-4bc4-9d1c-155ff8836bd7</guid>
             <pubDate>Fri, 14 Aug 2015 19:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alex Chen]]></title>
+            <description><![CDATA[<article><h1>Alex Chen</h1><p>BOARD MEMBER -IN-HOUSE COUNSEL</p><img src="http://accd.org/wp-content/uploads/2012/02/Screen-Shot-2012-01-31-at-9.51.17-PM.png"></article>]]></description>
+            <link>http://accd.org/?p=461</link>
+            <guid isPermaLink="false">44cf7b63-2d24-45fe-adab-d2e5f5dc947a</guid>
+            <pubDate>Tue, 01 Sep 2015 20:34:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fred Noa]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>DISCOVERY</h1><p>The Discovery Seminar is a unique, interactive, lecture and small group based experiential program. Participants examine their attitudes and belief systems in an interactive and reflective way with others. The goal of Discovery is to equip participants for radical transformation so that they can live the full and productive life that aligns with their vision.</p><img src="http://accd.org/wp-content/uploads/2012/01/DISCOVERY.jpg"></article>]]></description>
             <link>http://accd.org/?page_id=192</link>
             <guid isPermaLink="false">c5376bc4-0fa5-4415-a640-46cf0a8264d9</guid>
-            <pubDate>Sun, 16 Aug 2015 21:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DAN TOCCHINI'S BLOG]]></title>
-            <description><![CDATA[<article><h1>DAN TOCCHINI'S BLOG</h1><p>Posted by Team on Feb 1, 2012 in Projects & Partners | 0 comments I have worked as a "transformationalist" (opening possibility where people think there is none) for close to 30 years. This Blog is about expressing the art and since of transformation as it applies to the many areas of life we daily engage.</p><img src="http://accd.org/wp-content/uploads/2012/02/dantocchini-d3-com-e1328056248671.gif"></article>]]></description>
-            <link>http://accd.org/?p=363</link>
-            <guid isPermaLink="false">f0a197ac-fb93-4260-88ba-2a47281c3248</guid>
             <pubDate>Sun, 16 Aug 2015 21:49:14 GMT</pubDate>
         </item>
     </channel>
