@@ -33,18 +33,18 @@ purpose:
     url: null
     item: 31f30138-7847-490c-936d-a8028fe5c2af
 color:
-  saturation: 0.7939067
+  saturation: 0.9193549
   brandStrength: 1
-  rhythmicContrast: 0.9743131
+  lightness: 0.7449223
   brandColors:
     - '#100c09'
     - '#2b221b'
     - '#594838'
     - '#a76940'
     - '#e0c192'
-  lightness: 0.8034648
-typography_spectrum: 0.5991637
-layout_spectrum: 1
+  rhythmicContrast: 0.7544802
+typography_spectrum: 0.9814815
+layout_spectrum: 0.5298685
 analytics:
   twitter: null
   google: null
