@@ -35,16 +35,16 @@ purpose:
 color:
   saturation: 0.7939067
   brandStrength: 1
-  lightness: 0.8034648
+  rhythmicContrast: 0.9743131
   brandColors:
     - '#100c09'
     - '#2b221b'
     - '#594838'
     - '#a76940'
     - '#e0c192'
-  rhythmicContrast: 0.9743131
+  lightness: 0.8034648
 typography_spectrum: 0.5991637
-layout_spectrum: 0
+layout_spectrum: 0.9253286
 analytics:
   twitter: null
   google: null
