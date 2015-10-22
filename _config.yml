@@ -1,4 +1,8 @@
-layout_spectrum: 0.84994
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -34,22 +38,18 @@ purpose:
 color:
   saturation: 1
   brandStrength: 0.875
-  lightness: 0.3876942
+  lightness: 0.5621266
   brandColors:
     - '#100c09'
     - '#2b221b'
     - '#594838'
     - '#a76940'
     - '#e0c192'
-  rhythmicContrast: 0.8882915
+  rhythmicContrast: 0.4318997
 typography_spectrum: 0.8679809
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.84994
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: ACCD
