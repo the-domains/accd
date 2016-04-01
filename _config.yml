@@ -1,7 +1,9 @@
-name: ACCD
 favicon: null
-layout_spectrum: 0.8727598
-typography_spectrum: 1
+name: ACCD
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,30 +28,28 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose:
+  - name: awareness
+    url: 'http://accd.org/?p=323'
+    item: 692a08aa-9fab-433b-a4e0-1630898935ec
 color:
+  saturation: 1
+  brandStrength: 0.875
+  rhythmicContrast: 0.75
   brandColors:
     - '#100c09'
     - '#2b221b'
     - '#594838'
     - '#a76940'
     - '#e0c192'
-  brandStrength: 0.875
   lightness: 0.5625
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose:
-  - name: awareness
-    url: 'http://accd.org/?p=323'
-    item: 692a08aa-9fab-433b-a4e0-1630898935ec
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7365591
+analytics:
+  twitter: null
+  google: null
+  facebook: null
