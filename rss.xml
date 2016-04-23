@@ -4,7 +4,7 @@
         <description><![CDATA[ACCD]]></description>
         <link>https://thegrid.ai/accd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 07:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 07:24:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>http://accd.org/?p=282</link>
             <guid isPermaLink="false">04540695-ecc2-47f7-85aa-9b1021aff5a5</guid>
             <pubDate>Fri, 14 Aug 2015 01:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DAN TOCCHINI'S BLOG]]></title>
+            <description><![CDATA[<article><h1>DAN TOCCHINI'S BLOG</h1><p>Posted by Team on Feb 1, 2012 in Projects & Partners | 0 comments I have worked as a "transformationalist" (opening possibility where people think there is none) for close to 30 years. This Blog is about expressing the art and since of transformation as it applies to the many areas of life we daily engage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74784878a02c837237d91e105ade44c2d118e352.gif"></article>]]></description>
+            <link>http://accd.org/?p=363</link>
+            <guid isPermaLink="false">f0a197ac-fb93-4260-88ba-2a47281c3248</guid>
+            <pubDate>Sat, 23 Apr 2016 07:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ACCD’s Sponsors Meeting]]></title>
@@ -68,13 +75,6 @@
             <link>http://accd.org/?p=323</link>
             <guid isPermaLink="false">87735e4c-3eac-49da-aa19-ef1105e88b4b</guid>
             <pubDate>Mon, 17 Aug 2015 18:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ACCD Breakthrough Training (will dent ur universe)]]></title>
-            <description><![CDATA[<article><h1>ACCD Breakthrough Training (will dent ur universe)</h1><p>Made by yours truly and Gordonian for ACCD to go along with their shiny new website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29b7566ece6905f88be2d2441a018c851c247e21.jpg"></article>]]></description>
-            <link>https://vimeo.com/14990888</link>
-            <guid isPermaLink="false">692a08aa-9fab-433b-a4e0-1630898935ec</guid>
-            <pubDate>Mon, 17 Aug 2015 18:09:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
