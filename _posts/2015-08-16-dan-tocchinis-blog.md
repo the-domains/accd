@@ -25,10 +25,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://accd.org/?p=363'
 title: "DAN TOCCHINI'S BLOG"
-datePublished: '2015-08-16T21:49:14.549Z'
-dateModified: '2015-08-16T21:49:14.549Z'
+datePublished: '2016-04-23T07:23:47.342Z'
+dateModified: '2015-08-16T21:49:14.642Z'
 sourcePath: _posts/2015-08-16-dan-tocchinis-blog.md
 published: true
+starred: false
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
