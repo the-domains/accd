@@ -43,12 +43,12 @@ color:
     - '#a76940'
     - '#e0c192'
   lightness: 0.5625
-typography_spectrum: 1
+typography_spectrum: 0.11464180913753808
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7365591
+layout_spectrum: 0.550762469181791
 analytics:
   twitter: null
   google: null
