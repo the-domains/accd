@@ -1,4 +1,5 @@
 favicon: null
+style: the-composer
 name: ACCD
 opengraph:
   image: null
@@ -33,23 +34,22 @@ purpose:
     url: 'http://accd.org/?p=323'
     item: 692a08aa-9fab-433b-a4e0-1630898935ec
 color:
-  saturation: 1
+  saturation: 0.8416965
   brandStrength: 0.875
-  rhythmicContrast: 0.75
+  lightness: 0.7449223
   brandColors:
     - '#100c09'
     - '#2b221b'
     - '#594838'
     - '#a76940'
     - '#e0c192'
-  lightness: 0.5625
-typography_spectrum: 0.11464180913753808
-style: the-composer
+  rhythmicContrast: 0.485663
+typography_spectrum: 0.6612903
+layout_spectrum: 0.844086
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.550762469181791
 analytics:
   twitter: null
   google: null
