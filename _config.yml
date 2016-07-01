@@ -44,6 +44,7 @@ color:
     - '#e0c192'
   lightness: 0.5625
 typography_spectrum: 0.11464180913753808
+style: the-composer
 cta:
   bucket: null
   version: null
