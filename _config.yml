@@ -1,6 +1,8 @@
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 style: the-composer
-name: ACCD
 opengraph:
   image: null
   type: null
@@ -29,28 +31,26 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-purpose:
-  - name: awareness
-    url: 'http://accd.org/?p=323'
-    item: 692a08aa-9fab-433b-a4e0-1630898935ec
+layout_spectrum: 0.844086
 color:
   saturation: 0.8416965
   brandStrength: 0.875
-  lightness: 0.7449223
+  rhythmicContrast: 0.485663
   brandColors:
     - '#100c09'
     - '#2b221b'
     - '#594838'
     - '#a76940'
     - '#e0c192'
-  rhythmicContrast: 0.485663
-typography_spectrum: 0.6612903
-layout_spectrum: 0.844086
+  lightness: 0.7449223
+purpose:
+  - name: awareness
+    url: 'http://accd.org/?p=323'
+    item: 692a08aa-9fab-433b-a4e0-1630898935ec
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: ACCD
+typography_spectrum: 0.6612903
