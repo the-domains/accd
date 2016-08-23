@@ -1,8 +1,20 @@
+layout_spectrum: 0.28759029414504766
+typography_spectrum: 0.2445889024529606
+color:
+  saturation: 0.5093728380743414
+  brandStrength: 0.9129497848916799
+  rhythmicContrast: 0.06720026209950447
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  lightness: 0.5306949110236019
 analytics:
   twitter: null
   google: null
   facebook: null
-style: the-composer
 opengraph:
   image: null
   type: null
@@ -31,26 +43,10 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-layout_spectrum: 0.844086
-color:
-  saturation: 0.8416965
-  brandStrength: 0.875
-  rhythmicContrast: 0.485663
-  brandColors:
-    - '#100c09'
-    - '#2b221b'
-    - '#594838'
-    - '#a76940'
-    - '#e0c192'
-  lightness: 0.7449223
-purpose:
-  - name: awareness
-    url: 'http://accd.org/?p=323'
-    item: 692a08aa-9fab-433b-a4e0-1630898935ec
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
 favicon: null
 name: ACCD
-typography_spectrum: 0.6612903
