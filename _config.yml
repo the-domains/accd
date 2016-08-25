@@ -28,9 +28,6 @@ navigation:
   - name: Board Members
     id: 44cf7b63-2d24-45fe-adab-d2e5f5dc947a
     type: content
-  - name: Board Member
-    id: 1a180dbc-fe36-4a59-9f16-a8f99fa832cc
-    type: content
 favicon: null
 collections:
   - filter:
