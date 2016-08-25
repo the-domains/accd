@@ -28,6 +28,9 @@ navigation:
   - name: Board Members
     id: 44cf7b63-2d24-45fe-adab-d2e5f5dc947a
     type: content
+  - name: Web
+    url: accd.org
+    type: external
 favicon: null
 collections:
   - filter:
