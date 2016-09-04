@@ -1,37 +1,4 @@
-typography_spectrum: 0.2445889024529606
-color:
-  saturation: 0.5093728380743414
-  brandStrength: 0.9129497848916799
-  rhythmicContrast: 0.06720026209950447
-  brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-  lightness: 0.5306949110236019
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.28759029414504766
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: ACCD
-cta:
-  bucket: null
-  version: null
-  domain: null
-navigation:
-  - name: Web
-    url: accd.org
-    type: external
-  - name: Board Members
-    id: 44cf7b63-2d24-45fe-adab-d2e5f5dc947a
-    type: content
-favicon: null
+purpose: []
 collections:
   - filter:
       notType:
@@ -56,4 +23,37 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-purpose: []
+color:
+  saturation: 0.5093728380743414
+  brandStrength: 0.188172
+  lightness: 0.5306949110236019
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  rhythmicContrast: 0.06720026209950447
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+navigation:
+  - name: Web
+    url: accd.org
+    type: external
+  - name: Board Members
+    id: 44cf7b63-2d24-45fe-adab-d2e5f5dc947a
+    type: content
+name: ACCD
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2445889024529606
+layout_spectrum: 0.2875902941450477
